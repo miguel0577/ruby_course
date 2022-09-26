@@ -1,2 +1,2 @@
-Ruby course concepts
+Ruby course concepts \n 
 By: Miguel Buitrago
