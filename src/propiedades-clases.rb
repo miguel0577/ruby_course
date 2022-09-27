@@ -1,5 +1,5 @@
 class Admin
-    # attr_ son los metodos de ayuda para reemplazar los metodos get y set para definir los atributos de una clase
+    # attr_ son los metodos de ayuda para reemplazar los metodos get y set para definir las variables de una clase
     # attr_accessor cumple la funcion del metodo get y set al tiempo
     # attr_reader cumple la funcion unicamente del metodo get
     # attr_writer cumple la funcion unicamente del metodo set
